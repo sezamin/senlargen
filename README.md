@@ -1,2 +1,2 @@
-# senlargen
-Laravel/Sencha  Generator
+# Laravel/Sencha Generator
+Laravel/Sencha Generator
